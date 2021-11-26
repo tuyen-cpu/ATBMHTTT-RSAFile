@@ -23,5 +23,6 @@ public static void main(String[] args) throws Exception {
 //	RSAFile.doEncryptRSAWithAES(prikey, "F:\\test\\rsaFile\\pikachu.zip", "F:\\test\\rsaFile\\pikachu.zipe");
 //RSAFile.doDeCryptRSAWithAES(key, "F:\\test\\rsaFile\\pikachu.zipe", "F:\\test\\rsaFile\\pikachu1.zip");
 	System.out.println("");
+	System.out.println("");
 }
 }
