@@ -21,6 +21,7 @@ public static void main(String[] args) throws Exception {
 	PublicKey key  =rsaFile.readPublicKey("F:\\test\\rsaFile\\public.key");
 //	PrivateKey prikey  =rsaFile.readPrivateKey("F:\\test\\rsaFile\\private.key");
 //	RSAFile.doEncryptRSAWithAES(prikey, "F:\\test\\rsaFile\\pikachu.zip", "F:\\test\\rsaFile\\pikachu.zipe");
-RSAFile.doDeCryptRSAWithAES(key, "F:\\test\\rsaFile\\pikachu.zipe", "F:\\test\\rsaFile\\pikachu1.zip");
+//RSAFile.doDeCryptRSAWithAES(key, "F:\\test\\rsaFile\\pikachu.zipe", "F:\\test\\rsaFile\\pikachu1.zip");
+	System.out.println("");
 }
 }
